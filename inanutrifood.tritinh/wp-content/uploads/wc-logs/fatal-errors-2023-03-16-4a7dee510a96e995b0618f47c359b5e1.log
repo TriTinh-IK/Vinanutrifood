@@ -1,0 +1,40 @@
+2023-03-16T03:32:58+00:00 CRITICAL Uncaught Error: Class 'FrmProAppHelper' not found in /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-fields/back-end/field-captcha.php:9
+Stack trace:
+#0 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/models/fields/FrmFieldType.php(243): include()
+#1 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/models/fields/FrmFieldType.php(219): FrmFieldType->include_on_form_builder('', Array)
+#2 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-forms/add_field.php(48): FrmFieldType->show_on_form_builder()
+#3 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/controllers/FrmFieldsController.php(174): require('/home/uufyndalh...')
+#4 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-forms/form.php(36): FrmFieldsController::load_single in /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-fields/back-end/field-captcha.php on line 9
+
+2023-03-16T03:33:28+00:00 CRITICAL Uncaught Error: Class 'FrmProAppHelper' not found in /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-fields/back-end/field-captcha.php:9
+Stack trace:
+#0 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/models/fields/FrmFieldType.php(243): include()
+#1 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/models/fields/FrmFieldType.php(219): FrmFieldType->include_on_form_builder('', Array)
+#2 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-forms/add_field.php(48): FrmFieldType->show_on_form_builder()
+#3 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/controllers/FrmFieldsController.php(174): require('/home/uufyndalh...')
+#4 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-forms/form.php(36): FrmFieldsController::load_single in /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-fields/back-end/field-captcha.php on line 9
+
+2023-03-16T03:33:34+00:00 CRITICAL Uncaught Error: Class 'FrmProAppHelper' not found in /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-fields/back-end/field-captcha.php:9
+Stack trace:
+#0 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/models/fields/FrmFieldType.php(243): include()
+#1 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/models/fields/FrmFieldType.php(219): FrmFieldType->include_on_form_builder('', Array)
+#2 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-forms/add_field.php(48): FrmFieldType->show_on_form_builder()
+#3 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/controllers/FrmFieldsController.php(174): require('/home/uufyndalh...')
+#4 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-forms/form.php(36): FrmFieldsController::load_single in /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-fields/back-end/field-captcha.php on line 9
+
+2023-03-16T03:33:37+00:00 CRITICAL Uncaught Error: Class 'FrmProAppHelper' not found in /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-fields/back-end/field-captcha.php:9
+Stack trace:
+#0 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/models/fields/FrmFieldType.php(243): include()
+#1 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/models/fields/FrmFieldType.php(219): FrmFieldType->include_on_form_builder('', Array)
+#2 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-forms/add_field.php(48): FrmFieldType->show_on_form_builder()
+#3 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/controllers/FrmFieldsController.php(174): require('/home/uufyndalh...')
+#4 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-forms/form.php(36): FrmFieldsController::load_single in /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-fields/back-end/field-captcha.php on line 9
+
+2023-03-16T04:32:16+00:00 CRITICAL Uncaught Error: Class 'FrmProAppHelper' not found in /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-fields/back-end/field-captcha.php:9
+Stack trace:
+#0 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/models/fields/FrmFieldType.php(243): include()
+#1 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/models/fields/FrmFieldType.php(219): FrmFieldType->include_on_form_builder('', Array)
+#2 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-forms/add_field.php(48): FrmFieldType->show_on_form_builder()
+#3 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/controllers/FrmFieldsController.php(174): require('/home/uufyndalh...')
+#4 /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-forms/form.php(36): FrmFieldsController::load_single in /home/uufyndalhosting/public_html/inanutrifood.tritinh/wp-content/plugins/formidable/classes/views/frm-fields/back-end/field-captcha.php on line 9
+
